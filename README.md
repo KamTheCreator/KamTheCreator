@@ -1,7 +1,3 @@
-# Frontend Engineer
-
-
-
 ## Github Stats
 
 <table>
