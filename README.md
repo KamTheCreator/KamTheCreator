@@ -2,19 +2,19 @@
 
 <!-- languages && tools -->
 
-<table>
-  <tr>
-    <td width="333px">
+<!-- <table> -->
+<!-- <tr> -->
+    <!-- <td width="333px">
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
         </a>
         <p align="center">JavaScript</p>
-      </p>
-    </td>
-   <td width="333px">
-      <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      </p> -->
+    <!-- </td> -->
+   <!-- <td width="333px">
+      <p align="center"> -->
+        <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
         </a>
         <p align="center">TypeScript</p>
@@ -29,8 +29,8 @@
       </p>
      </td>
   </tr>
-  <tr>
-    <td width="333px">
+  <tr> -->
+    <!-- <td width="333px">
       <p align="center">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="NextJS" /></a>
         <p align="center">NextJS</p>
@@ -42,8 +42,8 @@
         <p align="center">
            Zustand
         </p>
-      </p>
-    </td> 
+      </p> -->
+    <!-- </td> 
     <td width="333px">
       <p align="center">
           <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- github stats -->
 
