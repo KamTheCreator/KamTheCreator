@@ -15,5 +15,5 @@
 </table> -->
 
 <div>
-  <a href="http://www.github.com/KamTheCreator"><img src="https://github-readme-activity-graph.vercel.app/graph?username=KamTheCreator&custom_title=Cornerstone's%20GitHub%20Activity%20Graph&bg_color=021F3F&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+  <a href="http://www.github.com/KamTheCreator"><img src="https://github-readme-activity-graph.vercel.app/graph?username=KamTheCreator&custom_title=Cornerstone's%20GitHub%20Activity%20Graph&bg_color=031F3F&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 </div>
