@@ -143,19 +143,7 @@ const Kam = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/KamTheCreator/your-repo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamTheCreator&repo=your-repo-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&hide_border=true" />
-</a>
-&nbsp;
-<a href="https://github.com/KamTheCreator/your-repo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamTheCreator&repo=your-repo-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&hide_border=true" />
-</a>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
