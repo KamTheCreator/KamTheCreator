@@ -191,15 +191,15 @@ const Kam = {
 
 ## 📅 Coding Time (WakaTime)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KamTheCreator&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&layout=compact" />
-</div>
+</div> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ---
 
-<!-- <div align="center">
+ <div align="center">
 
 ### 💬 "The best way to predict the future is to create it."
 
@@ -207,4 +207,4 @@ const Kam = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15202b,100:0891b2&height=130&section=footer&animation=twinkling" />
 
-</div> -->
+</div> 
