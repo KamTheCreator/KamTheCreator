@@ -199,7 +199,7 @@ const Kam = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💬 "The best way to predict the future is to create it."
 
@@ -207,4 +207,4 @@ const Kam = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15202b,100:0891b2&height=130&section=footer&animation=twinkling" />
 
-</div>
+</div> -->
