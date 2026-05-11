@@ -145,21 +145,7 @@ const Kam = {
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🐍 Contribution Snake
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamTheCreator/KamTheCreator/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamTheCreator/KamTheCreator/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/KamTheCreator/KamTheCreator/output/github-contribution-grid-snake-dark.svg" />
-  </picture> -->
-<!-- </div> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -179,13 +165,7 @@ const Kam = {
 
 ---
 
-## 🎵 Spotify — Now Playing
 
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=0891b2&bar_color_cover=false" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
