@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1a3a5c,100:15202b&height=220&section=header&text=KamTheCreator&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
 
