@@ -1,7 +1,6 @@
 <div align="center">
 <!-- Animated Wave Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1a3a5c,100:15202b&height=220&section=header&text=KamTheCreator&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20%F0%9F%9A%80&descAlignY=60&descAlign=50&descSize=18" />
-
 <br/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=0891B2&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+there!+I'm+Kam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A0;Creative+Coder+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Always+Learning%2C+Always+Growing+%F0%9F%93%88;Code.+Create.+Conquer.+%E2%9C%8A" alt="Typing SVG" />
