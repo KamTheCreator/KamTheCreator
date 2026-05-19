@@ -4,7 +4,6 @@
 <br/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=0891B2&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+there!+I'm+Kam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A0;Creative+Coder+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Always+Learning%2C+Always+Growing+%F0%9F%93%88;Code.+Create.+Conquer.+%E2%9C%8A" alt="Typing SVG" />
-
 <br/><br/>
 <!-- Animated Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=KamTheCreator&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" />
