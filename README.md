@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Lives-Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-0891b2?style=for-the-badge&labelColor=15202b" />
 &nbsp;
 <img src="https://img.shields.io/badge/Languages-5%2B-0891b2?style=for-the-badge&labelColor=15202b" />
-
 </div>
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
