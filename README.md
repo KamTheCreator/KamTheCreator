@@ -18,31 +18,11 @@
 </div>
 --
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-## 👨‍💻 About Me
-```typescript
-const Kam = {
-  name        : "KamTheCreator",
-  location    : "Nigeria 🇳🇬",
-  role        : "Full Stack Developer",
-  languages   : ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  currentWork : "Building something awesome 🚀",
-  learning    : ["Web3", "AI/ML", "Cloud Architecture"],
-  hobbies     : ["Coding", "Gaming", "Music", "Football ⚽"],
-  email       : "kammykamsi@gmail.com",
-  funFact     : "I debug with console.log and I'm not ashamed 😄",
-  motto       : "Code. Create. Conquer. 🔥"
-};
-```
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ---
-## 🤝 Connect With Me
-<div align="center">
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KamTheCreator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KamTheCreator)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/KamTheCreator)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kammykamsi@gmail.com)
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
