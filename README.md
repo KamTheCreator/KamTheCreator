@@ -5,26 +5,81 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=0891B2&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+there!+I'm+Kam+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Problem+Solver+%F0%9F%A7%A0;Creative+Coder+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Always+Learning%2C+Always+Growing+%F0%9F%93%88;Code.+Create.+Conquer.+%E2%9C%8A" alt="Typing SVG" />
 <br/><br/>
-<!-- Animated Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=KamTheCreator&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/KamTheCreator?logo=github&style=for-the-badge&color=0891b2&labelColor=15202b&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-0891b2?style=for-the-badge&labelColor=15202b" />
-&nbsp;
-<img src="https://img.shields.io/badge/Lives-Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-0891b2?style=for-the-badge&labelColor=15202b" />
-&nbsp;
-<img src="https://img.shields.io/badge/Languages-5%2B-0891b2?style=for-the-badge&labelColor=15202b" />
-</div>
---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- TODO: replace kAMSIYOCHUKWU-GH below with your actual GitHub username in the widget links -->
+
+<p align="center">
+  <a href="https://tryhackme.com/p/kAMSIYOCHUKWU">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/kAMSIYOCHUKWU.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/kAMSIYOCHUKWU/badges/terminaled" title="cat linux.txt">
+    <img src="https://cdn-images.tryhackme.com/b53d747850667631c8e4437dd8c22dfa.png" alt="cat linux.txt badge" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/kAMSIYOCHUKWU/badges/network-fundamentals" title="Networking Nerd">
+    <img src="https://cdn-images.tryhackme.com/b3a6386bac7e5857bc16730f868adfb8.png" alt="Networking Nerd badge" width="90" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/kAMSIYOCHUKWU/badges/web-fund" title="World Wide Web">
+    <img src="https://cdn-images.tryhackme.com/7301a8865955590288cd969a80265592.png" alt="World Wide Web badge" width="90" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I build software and break things (ethically) — I live at the intersection of **software engineering** and **cybersecurity**.
+
+- 🛡️ Interested in web security, offensive security / pentesting, and writing clean, secure code.
+- 🎯 Goal: become a well-rounded engineer who understands both how systems are built *and* how they're broken.
+- 💬 Ask me about web development, CTFs, or anything security-related.
+- 📫 Reach me: <!-- TODO: add your email -->
+
 ---
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- TODO: add or remove any badges above so the list matches what you actually use -->
 
 ---
+
+### 📊 GitHub Stats
+
+<!-- TODO: replace kAMSIYOCHUKWU-GH in the three links below with your real GitHub username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kAMSIYOCHUKWU-GH&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kAMSIYOCHUKWU-GH&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kAMSIYOCHUKWU-GH&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<!-- TODO: fill in your real profile URLs -->
+
+<p align="center">
+  <a href="https://tryhackme.com/p/kAMSIYOCHUKWU"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kAMSIYOCHUKWU-GH&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+<p align="center"><i>"Build it. Break it. Secure it."</i></p>
 
 ## 🛠️ Tech Stack
 
@@ -60,6 +115,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**Security & Tooling**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔧 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
