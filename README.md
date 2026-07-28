@@ -45,23 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<!-- TODO: replace kAMSIYOCHUKWU-GH in the three links below with your real GitHub username -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kAMSIYOCHUKWU-GH&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kAMSIYOCHUKWU-GH&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kAMSIYOCHUKWU-GH&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
@@ -138,22 +121,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamTheCreator&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KamTheCreator&stroke=ffffff&background=15202b&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-  <br/><br/>
-
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamTheCreator&langs_count=8&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=15202b&custom_title=Top%20Languages" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 
 
