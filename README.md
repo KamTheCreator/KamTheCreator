@@ -4,7 +4,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=0891B2&center=true&vCenter=true&random=false&width=750&height=60&lines=Hey+there!+I'm+Kam+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%9F;Builder+%2B+Breaker+from+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Always+Learning%2C+Always+Growing+%F0%9F%93%88" alt="Typing SVG" />
 <br/><br/>
-
 <!-- TryHackMe Profile Badge (auto-updates) -->
 <a href="https://tryhackme.com/p/kAMSIYOCHUKWU">
   <img src="https://tryhackme-badges.s3.amazonaws.com/kAMSIYOCHUKWU.png" alt="TryHackMe Badge" />
